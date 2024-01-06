@@ -1,0 +1,17 @@
+{
+  "name": "websee-sourcemap",
+  "version": "1.0.0",
+  "description": "上传sourceMap文件到websee监控平台",
+  "author": "kongbg",
+  "main": "index.js",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kongbg/websee-sourcemap.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
