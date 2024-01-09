@@ -1,6 +1,6 @@
 class WebSeeSourceMap {
     /**
-     * 初始化
+     * 初始化WebSeeUpLoadMap
      * @param {String} options.token 项目唯一token 必填
      * @param {String} options.dsn sourceMap上传地址 必填
      * @param {String} options.appVersion wen应用版本(package.json'中的version) 必填
@@ -111,4 +111,4 @@ class WebSeeSourceMap {
     }
 }
 
-export default WebSeeSourceMap;
+module.exports = WebSeeSourceMap;
