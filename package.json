@@ -1,6 +1,6 @@
 {
   "name": "websee-sourcemap",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "构建生产包时，自动上传sourceMap文件到websee监控平台，定位报错信息。",
   "author": "kongbg",
   "main": "index.js",
